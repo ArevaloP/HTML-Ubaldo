@@ -1,0 +1,16 @@
+h1{
+    color: #F72585;
+    text-align: center;
+}
+h2{
+    color: #3F37C9;
+}
+p{
+    color: #457B9D;
+}
+
+div{
+    border: 10px solid #560BAD;
+    background-color: #F1FAEE;
+    text-align: center;
+}
